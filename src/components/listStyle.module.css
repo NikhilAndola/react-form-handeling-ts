@@ -1,0 +1,9 @@
+.parent-box {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid red;
+    list-style-type: none;
+    margin: 2px 20%;
+    padding: 5px;
+}
